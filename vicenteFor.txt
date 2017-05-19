@@ -1,2 +1,3 @@
-linea 1 Esto es una prueba del for
-lenea 2 haber que tal sale
+linea 1 Esto es una prueba del fork
+linea 2 haber que tal sale el trabajo
+Pues te he hecho cambios ortográficos, jejejejejej
